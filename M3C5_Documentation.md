@@ -1,6 +1,6 @@
 ***
 # 1.- ¿Qué es un condicional?
-Son un tipo de código que nos da una respuesta dependiendo de si una condición es verdadera o falsa.
+Es un tipo de código que nos da una respuesta dependiendo de si una condición es verdadera o falsa.
 
 __Sintaxis:__
 ```python
