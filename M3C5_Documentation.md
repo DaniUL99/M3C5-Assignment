@@ -370,6 +370,7 @@ También podemos poner otros parámetros antes del `*args`, pero tendremos que a
 ```python
 def nombre_funcion(arg_1, *args):
     respuesta
+
 nombre_funcion(arg_1 = valor, argumentos)
 ```
 
@@ -387,7 +388,7 @@ Funcionan de forma parecida a los argumentos arbitrarios, pero utilizan la palab
 ```python
 def nombre_funcion(**kwargs):
     respuesta
-__Por ejemplo:__\
+
 nombre_funcion(llave = valor, llave = valor)
 ```
 
